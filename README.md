@@ -165,9 +165,3 @@ For questions or contributions, please contact:
 - Akshat Singh — 221210015@nitdelhi.ac.in
 - Akshat — 221210014@nitdelhi.ac.in
 - Dr. Arjun Singh Rawat — arjunsinghrawat005@gmail.com
-
-
-Contributions by: 
-Aditya Shaurya Singh Negi   221210012@nitdelhi.ac.in
-Akshat Singh                221210015@nitdelhi.ac.in
-Akshat                      221210014@nitdelhi.ac.in
